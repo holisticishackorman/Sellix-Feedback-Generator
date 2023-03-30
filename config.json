@@ -1,5 +1,5 @@
 {
-    "product_id": "product id here",
-    "sellix_auth": "auth token here (eci79oNS)",
-    "shop": "shop here"
+    "product_id": "product id here", # Go to https://dashboard.sellix.io/products Make your product $10 with unlimited stock.
+    "sellix_auth": "auth token here (eci79oNS)", # Go to https://dashboard.sellix.io/settings/security and copy the API key.
+    "shop": "shop here" # Your shop name.
 }
