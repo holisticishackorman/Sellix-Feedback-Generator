@@ -1,6 +1,6 @@
 # Sellix Feedback Generator
 ## Generates feedbacks on your own sellix shop
-Intitially found by Holistic (The code is poop but I don't care)
+Intitially made by Holistic (The code is poop but I don't care)
 
 # How to use
 Add Solana as a supported currency
